@@ -16,7 +16,7 @@ Open your terminal through Ctrl+Alt+T with keyboard.
 
 Download the latest version with the following [wget](https://linuxize.com/post/wget-command-examples/) command:
 
-# wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
 # 2. Install TeamViewer
 
