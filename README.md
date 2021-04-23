@@ -22,7 +22,7 @@ wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
 
 Install the TeamViewer .deb package with this command:
 
-# "sudo apt install ./teamviewer_amd64.deb"
+sudo apt install ./teamviewer_amd64.deb
 
 Type Y to continue the installation.
 
